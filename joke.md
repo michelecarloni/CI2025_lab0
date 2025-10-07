@@ -1,2 +1,2 @@
-Computer 1 is eating a sandwich.
-Computer 2 says: "Hey!, Can I have a byte?"
+Computer 0 is eating a sandwich.
+Computer 1 says: "Hey!, Can I have a byte?"
